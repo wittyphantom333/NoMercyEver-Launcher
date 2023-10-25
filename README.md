@@ -1,1 +1,9 @@
-# NoMercyEver-Launcher
+
+## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Recent activity [![Time period](https://images.repography.com/37459706/wittyphantom333/NoMercyEver-Launcher/recent-activity/oXel4apYEUe8dwLTPXeMRUc1c2O2UEZNq2SRqFKw6ec/L4S60SqzGlSKhuzGMtJaLLs040dUuyEp-_qaU696AW4_badge.svg)](https://repography.com)
+[![Timeline graph](https://images.repography.com/37459706/wittyphantom333/NoMercyEver-Launcher/recent-activity/oXel4apYEUe8dwLTPXeMRUc1c2O2UEZNq2SRqFKw6ec/L4S60SqzGlSKhuzGMtJaLLs040dUuyEp-_qaU696AW4_timeline.svg)](https://github.com/wittyphantom333/NoMercyEver-Launcher/commits)
+[![Issue status graph](https://images.repography.com/37459706/wittyphantom333/NoMercyEver-Launcher/recent-activity/oXel4apYEUe8dwLTPXeMRUc1c2O2UEZNq2SRqFKw6ec/L4S60SqzGlSKhuzGMtJaLLs040dUuyEp-_qaU696AW4_issues.svg)](https://github.com/wittyphantom333/NoMercyEver-Launcher/issues)
+[![Pull request status graph](https://images.repography.com/37459706/wittyphantom333/NoMercyEver-Launcher/recent-activity/oXel4apYEUe8dwLTPXeMRUc1c2O2UEZNq2SRqFKw6ec/L4S60SqzGlSKhuzGMtJaLLs040dUuyEp-_qaU696AW4_prs.svg)](https://github.com/wittyphantom333/NoMercyEver-Launcher/pulls)
+[![Trending topics](https://images.repography.com/37459706/wittyphantom333/NoMercyEver-Launcher/recent-activity/oXel4apYEUe8dwLTPXeMRUc1c2O2UEZNq2SRqFKw6ec/L4S60SqzGlSKhuzGMtJaLLs040dUuyEp-_qaU696AW4_words.svg)](https://github.com/wittyphantom333/NoMercyEver-Launcher/commits)
+[![Top contributors](https://images.repography.com/37459706/wittyphantom333/NoMercyEver-Launcher/recent-activity/oXel4apYEUe8dwLTPXeMRUc1c2O2UEZNq2SRqFKw6ec/L4S60SqzGlSKhuzGMtJaLLs040dUuyEp-_qaU696AW4_users.svg)](https://github.com/wittyphantom333/NoMercyEver-Launcher/graphs/contributors)
+[![Activity map](https://images.repography.com/37459706/wittyphantom333/NoMercyEver-Launcher/recent-activity/oXel4apYEUe8dwLTPXeMRUc1c2O2UEZNq2SRqFKw6ec/L4S60SqzGlSKhuzGMtJaLLs040dUuyEp-_qaU696AW4_map.svg)](https://github.com/wittyphantom333/NoMercyEver-Launcher/commits)
+
